@@ -1,0 +1,206 @@
+.a{
+    color:white;
+    padding:15px;
+  }
+
+.b{
+    font-style: bold;
+    font-weight: 500;
+    color:white;
+    text-align: left;
+    padding:20px;
+
+  
+}
+.navbar-inverse{
+    height:100px;
+    width:100%;
+    background-color: blue;
+}
+.c{
+    height:30px;
+    width:30px;
+    word-spacing: 30px;
+    
+   
+}
+.d{
+    color: beige;
+    
+    word-spacing:5px;
+    letter-spacing: 2px;
+    font-style: bold;
+    
+}
+.e{
+    color:white;
+}
+div.nav navbar-nav{
+    color: white;
+   
+}
+.g{
+    color:white;
+    padding:20px;
+    font-style: bold;
+    font-weight: 900;
+}
+.h{
+    color:white;
+    font-weight: 900;
+    font-style: bold;
+    font-size: x-large;
+}
+.i{
+    
+    background-color:white;
+    text-align: center;
+    padding:5px;
+    border-color: yellow;
+    
+}
+.j{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    height:40px;
+    width:100px;
+    background-size: cover;
+}
+.l{
+    font-size: larger;
+    font-style: bold;
+    font-weight: 700;
+}
+.m{
+    float:left;
+    padding:30px;
+    background-color:white;
+}
+.n{
+    font-weight: 600;
+    font-style: bold;
+    background-color:white;
+}
+.q{
+    padding:10px;
+    word-spacing: 160px;
+    background-color:white;
+}
+.o{
+    height: 200px;
+    width:200px;
+    background-color:white;
+}
+.r{
+    word-spacing:125px;
+    background-color:white;
+}
+.s{
+    word-spacing: 900px;
+    background-color:white;
+}
+.t{
+    word-spacing: 450px;
+    background-color:white;
+}
+.u{
+    word-spacing: 250px; 
+    background-color:white;
+}
+.v{
+    color:black;
+    background-color:white;
+}
+.w{
+    word-spacing: 100px;
+    background-color:white;
+    justify-content: flex-start;
+}
+.x{
+    word-spacing: 300px;
+    background-color:white;
+}
+.box{
+   
+    border-bottom: 15px;
+    width:100%;
+    height:400px;
+    border-radius: 10px;
+    background-color:white;
+}
+.one{
+    color:white;
+    padding:15px;
+    background-color: blue;
+   
+  }
+  .two{
+    height:30px;
+    width:30px;
+    word-spacing: 10px;
+    background-color: blue;
+   
+  }
+  body{
+   background-color:white;
+   justify-content: flex-start;
+   padding:0 0 0 30px;
+  
+
+  }
+  div{
+    width: 100%;
+        height: 280px;
+       
+        position:relative;
+        animation: changeimage ;
+        background-color: blue;
+  }
+  @keyframes changeimage{
+    100%{background-color:blue;}
+  }
+  .tab{
+    word-spacing: 20px;
+    
+    padding:0 30 30px 0;
+
+  }
+  .sign{
+    padding:40px;
+    color:white;
+  }
+  .mail{
+    background-color: white;
+    border-color:blue;
+    height:50px;
+    width:300px;
+  }
+  .bg{
+    background-color:pink;
+    color:blue;
+    border-color: blue;
+    height:50px;
+    width:150px;
+  }
+ 
+    
+  .go{
+    background-color: black;
+    color: white;
+   
+
+ }
+ .content{
+    color:blue;
+    font-style: bold;
+    
+ }
+ .login{
+    color:blue;
+ }
+ .logo{
+    color:white;
+   
+ }
+
